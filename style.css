@@ -47,7 +47,7 @@ form div .operator{
 }
 
 form input .equal{
-    width: 110px;
+    width: 110px !important
 }
 }
 
@@ -60,7 +60,7 @@ form input .equal{
 }
 
 form input .equal{
-    width: 110px;
+    width: 110px !important
 }
 }
 
@@ -77,6 +77,7 @@ form input .equal{
 }
 }
  
+
 
 
 
